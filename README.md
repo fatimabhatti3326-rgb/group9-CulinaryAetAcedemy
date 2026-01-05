@@ -15,4 +15,5 @@ It demonstrates HTML structure, CSS styling, and basic navigation.
 - 📈 Excel File: https://docs.google.com/spreadsheets/d/1oGetOS6t2BMz1zdCoiXqjzuq54Kdhwv9/edit?usp=drive_link&ouid=101395874001319954117&rtpof=true&sd=true 
 
 ## Live Website
-🔗 https://fatimabhatti3326-rgb.github.io/group9/ 
+🔗 https://fatimabhatti3326-rgb.github.io/group9-CulinaryAetAcedemy/
+
